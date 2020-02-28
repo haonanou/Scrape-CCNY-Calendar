@@ -1,1 +1,1 @@
-# calscrape
+# Scrape CCNY Calendar
